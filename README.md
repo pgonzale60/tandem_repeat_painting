@@ -15,11 +15,12 @@ This repository contains scripts for identifying multimegabase tandem repeats in
 - vsearch
 - blastn
 - bioawk
+- TRF
 
 ## Usage
 
-1. Clone this repository to your local machine using `https://github.com/<YourUserName>/Genomic-Tandem-Repeat-Identification-and-Analysis.git`
-2. Navigate to the directory of the cloned repository. (`cd Genomic-Tandem-Repeat-Identification-and-Analysis`)
+1. Clone this repository to your local machine using `https://github.com/pgonzale60/tandem_repeat_painting.git`
+2. Navigate to the directory of the cloned repository. (`cd tandem_repeat_painting`)
 3. Run the scripts with your genome sequence file as an argument.
 4. Use the generated outputs for further analysis or visualization.
 
